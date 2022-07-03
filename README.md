@@ -1,6 +1,6 @@
 <div align="center">
 
-##### 👋 Hi there, I'm YeonJae. I study hard now in order to work and live for the benefit of others.
+### 👋 Hi there, I'm YeonJae. I study hard now in order to work and live for the benefit of others.
 <br>
 <br>
   
