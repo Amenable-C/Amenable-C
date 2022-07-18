@@ -1,6 +1,7 @@
 <div align="center">
 
 ### 👋 Hi there, I'm YeonJae. I study hard now in order to work and live for the benefit of others.
+### WIN OR LEARN
 <br>
 <br>
   
@@ -55,7 +56,7 @@
     - 만도 자율주행 경진 대회 (2021.09 ~ 2021.12) - 인공지능을 이용한 자율주행 경진대회
   </div>
   <div float:left;>
-    - SW해커톤 with PNU (2021.06 ~ 2021.09) - 사진 촬용을 활용한 식단관리 애플리케이션
+    - SW해커톤 with PNU (2021.06 ~ 2021.09) - 사진 촬영을 활용한 식단관리 애플리케이션
   </div>
 </div>
 
