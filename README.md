@@ -49,16 +49,12 @@
 <br>
   
 ### 👨‍👩‍👦‍👦 Projects
-  <div float:left;>
-    - APPTIVE 활동 (2022.03 ~ 2022.07) - 의심스러운 증상에 대한 정보를 제공하는 의료 커뮤니티
-  </div>
-  <div float:left;>
-    - 만도 자율주행 경진 대회 (2021.09 ~ 2021.12) - 인공지능을 이용한 자율주행 경진대회
-  </div>
-  <div float:left;>
-    - SW해커톤 with PNU (2021.06 ~ 2021.09) - 사진 촬영을 활용한 식단관리 애플리케이션
-  </div>
-</div>
+
+[APPTIVE 활동 (2022.03 ~ 2022.07) - 의심스러운 증상에 대한 정보를 제공하는 의료 커뮤니티](https://github.com/Apptive2022-1/KidsCare)
+  
+만도 자율주행 경진 대회 (2021.09 ~ 2021.12) - 인공지능을 이용한 자율주행 경진대회
+
+SW해커톤 with PNU (2021.06 ~ 2021.09) - 사진 촬영을 활용한 식단관리 애플리케이션
 
 <!--
 **Amenable-C/Amenable-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
