@@ -50,6 +50,10 @@
   
 ### 👨‍👩‍👦‍👦 Projects
 
+[DND 7th (2022.07 ~ ) - 이차 장소 추천 서비스](https://github.com/dnd-side-project/dnd-7th-3-backend)
+
+[K-Hackathon (2022.06 ~ ) - 주차 공간 추천 플랫폼](https://github.com/ParkingPeople/parking-people)
+
 [APPTIVE 활동 (2022.03 ~ 2022.07) - 의심스러운 증상에 대한 정보를 제공하는 의료 커뮤니티](https://github.com/Apptive2022-1/KidsCare)
   
 [만도 자율주행 경진 대회 (2021.09 ~ 2021.12) - 인공지능을 이용한 자율주행 경진대회](https://github.com/Amenable-C/AI-Autonomous-Vehicle)
