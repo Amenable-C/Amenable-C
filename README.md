@@ -1,7 +1,6 @@
 <div align="center">
 
 ### 👋 Hi there, I'm YeonJae. I study hard now in order to work and live for the benefit of others.
-### WIN OR LEARN
 <br>
 <br>
   
@@ -52,7 +51,9 @@
   
 ### 👨‍👩‍👦‍👦 Projects
 
-[K-Hackathon (2022.06 ~ ) - 주차 공간 추천 플랫폼](https://github.com/ParkingPeople/parking-people)
+[SSAFY (2023.07 ~ 2023.08) - 설문 조사 서비스](https://github.com/Log-Wiki/SSS/tree/develop)
+
+[K-Hackathon (2022.06 ~ 2022.08) - 주차 공간 추천 플랫폼](https://github.com/ParkingPeople/parking-people)
 
 [DND 7th (2022.07 ~ 2022.08) - 이차 장소 추천 서비스](https://github.com/dnd-side-project/dnd-7th-3-backend)
 
